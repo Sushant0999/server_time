@@ -1,7 +1,3 @@
-Here’s a **GitHub repository description** for a **Windows desktop clock** that displays **server time** (e.g., fetched from an NTP server or API):  
-
----
-
 # **Windows Desktop Server Clock**  
 *A lightweight Windows application that shows server time (NTP/API-based) on your desktop, taskbar, or system tray.*  
 
