@@ -1,7 +1,7 @@
 # **Windows Desktop Server Clock**  
 *A lightweight Windows application that shows server time (NTP/API-based) on your desktop, taskbar, or system tray.*  
 
-![Demo](https://user-images.githubusercontent.com/.../demo.gif) *(Example screenshot of the clock overlay)*  
+![Demo]() *(Example screenshot of the clock overlay)*  
 
 ## **Features**  
 - ✅ **Real-time server clock** (syncs with NTP or custom API).  
